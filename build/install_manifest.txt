@@ -1,0 +1,13 @@
+/home/connect/catkin_ws/install/_setup_util.py
+/home/connect/catkin_ws/install/env.sh
+/home/connect/catkin_ws/install/setup.bash
+/home/connect/catkin_ws/install/local_setup.bash
+/home/connect/catkin_ws/install/setup.sh
+/home/connect/catkin_ws/install/local_setup.sh
+/home/connect/catkin_ws/install/setup.zsh
+/home/connect/catkin_ws/install/local_setup.zsh
+/home/connect/catkin_ws/install/.rosinstall
+/home/connect/catkin_ws/install/lib/pkgconfig/objectDetection.pc
+/home/connect/catkin_ws/install/share/objectDetection/cmake/objectDetectionConfig.cmake
+/home/connect/catkin_ws/install/share/objectDetection/cmake/objectDetectionConfig-version.cmake
+/home/connect/catkin_ws/install/share/objectDetection/package.xml

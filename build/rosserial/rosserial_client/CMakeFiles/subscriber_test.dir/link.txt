@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -rdynamic CMakeFiles/subscriber_test.dir/test/subscriber_test.cpp.o -o /home/connect/catkin_ws/devel/lib/rosserial_client/subscriber_test   -L/home/connect/catkin_ws/build/gtest  -Wl,-rpath,/home/connect/catkin_ws/build/gtest:/home/connect/catkin_ws/build/gtest/lib ../../gtest/lib/libgtest.so -lpthread 

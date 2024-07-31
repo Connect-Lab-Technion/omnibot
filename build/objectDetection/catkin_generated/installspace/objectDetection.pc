@@ -1,0 +1,8 @@
+prefix=/home/connect/catkin_ws/install
+
+Name: objectDetection
+Description: Description of objectDetection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
